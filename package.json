@@ -14,5 +14,8 @@
     "XDDD"
   ],
   "author": "rapkup",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
 }
